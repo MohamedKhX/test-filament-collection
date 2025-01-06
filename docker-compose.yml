@@ -20,9 +20,9 @@ services:
             - APP_DEBUG=false
             - APP_TIMEZONE=UTC
 
-            - APP_URL=https://test.laraplay.fun
-            - ASSET_URL=https://test.laraplay.fun
-            - VITE_APP_URL=https://test.laraplay.fun
+            - APP_URL=https://collection.laraplay.fun
+            - ASSET_URL=https://collection.laraplay.fun
+            - VITE_APP_URL=https://collection.laraplay.fun
 
             - APP_LOCALE=en
             - APP_FALLBACK_LOCALE=en
