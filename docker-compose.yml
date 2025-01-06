@@ -20,9 +20,9 @@ services:
             - APP_DEBUG=false
             - APP_TIMEZONE=UTC
 
-            - APP_URL=http://test.laraply.fun
-            - ASSET_URL=http://.laraply.fun
-            - VITE_APP_URL=http://.laraply.fun
+            - APP_URL=https://test.laraply.fun
+            - ASSET_URL=https://.laraply.fun
+            - VITE_APP_URL=https://.laraply.fun
 
             - APP_LOCALE=en
             - APP_FALLBACK_LOCALE=en
